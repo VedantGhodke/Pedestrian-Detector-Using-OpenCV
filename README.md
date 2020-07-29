@@ -1,6 +1,6 @@
 ## Pedestrian Detector Using OpenCV
 
-**Steps**
+**Steps:**
 
 * Install [openCV](https://docs.opencv.org/3.0-beta/doc/py_tutorials/py_setup/py_setup_in_windows/py_setup_in_windows.html)
 * Place the image to be analyzed in root directory of the project. (In this case I use peds.jpeg)
